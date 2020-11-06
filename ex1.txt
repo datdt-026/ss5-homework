@@ -1,0 +1,5 @@
++ querySelector: chỉ trả về phần tử đầu tiên khớp với các bộ chọn được chỉ định
++ querySelectorAll: trả về tất cả các kết quả phù hợp
++ getElementsByClassName: trả về một tập hợp tất cả các phần tử trong tài liệu với tên lớp được chỉ định
++ getElementsByTagName: trả về tất cả phần tử của tên thẻ được chỉ định
++ getElementByID: trả về phần tử có thuộc tính ID là giá trị được chỉ định
